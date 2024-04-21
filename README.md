@@ -1,4 +1,6 @@
 # Duet-Planet
+![Captura de pantalla 2024-04-22 a las 1 15 07](https://github.com/txnioh/Duet-Planet/assets/72271606/f27ce47a-bddb-4d69-aeb0-21a16eda1f16)
+
 
 ## Descripción
 **Duet-Planet** es un emocionante juego de emparejar planetas diseñado para desafiar tu memoria y habilidades de asociación. Este juego interactivo no solo ofrece diversión, sino también una competitiva tabla de clasificación donde los jugadores pueden comparar sus puntuaciones y competir con amigos o jugadores de todo el mundo.
