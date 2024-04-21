@@ -31,10 +31,3 @@ Las contribuciones son siempre bienvenidas! Si tienes alguna sugerencia para mej
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
-
-## Imágenes
-### Introducción
-![Captura de pantalla 2024-04-22 a las 1 15 07](https://github.com/txnioh/Duet-Planet/assets/72271606/f27ce47a-bddb-4d69-aeb0-21a16eda1f16)
-
-##Menú
-![Captura de pantalla 2024-04-22 a las 1 20 45](https://github.com/txnioh/Duet-Planet/assets/72271606/b8e01bde-984c-4f92-93f6-3a953911af71)
